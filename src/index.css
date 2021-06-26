@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.circle{
+  font-size:200%;
+  font-family: monospace;
+  background-color: rgb(230, 224, 224);
+  border: 1px solid black;
+  border-radius: 50%;
+  padding:15px;
+  margin-right: 3%;
+  line-height: normal;
+  
+}
+
+.left{ 
+  float:left;
+}
+
+
+#doctor-name{
+  overflow:hidden;  
+  margin: 0;
+}
+#doctor-address{
+  overflow:hidden;
+  display: block;  
+  margin: 0;
+}
+
+#years{
+  margin: 0;
+  clear: both;
+}
+
+.inner-container{
+  height: 63px;
+  padding: 10px 0;
+}
+
+

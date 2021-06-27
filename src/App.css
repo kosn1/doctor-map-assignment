@@ -3,10 +3,7 @@
     height: 100vh;
 }
 
-
-
-
-.info-popup .leaflet-popup-content {
-    
+.leaflet-popup-content {   
     width: 450px !important;
-  }
+}
+ 
